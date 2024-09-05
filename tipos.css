@@ -1,0 +1,45 @@
+body {
+    background-color:rgb(213, 231, 225);
+    text-align: justify;
+    font-size: 95%;
+}
+
+.titulo {
+    color: rgb(9, 46, 38);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+
+.contenedor {
+    max-width: 2000px;
+    background-color: rgb(213, 231, 225) ;
+    padding: 20px;
+    border: 20px solid rgb(95, 158, 137);}
+
+#Acerca-de-mí {
+    display: flex;
+    text-align: justify;
+    background-color:rgb(95, 158, 137) ;
+    max-width: 2000px;
+}
+
+.foto {
+    width: 250px;
+}
+
+#Habilidades {
+    font-family: monospace;
+}
+
+
+
+
+
+
+
+
+
+
+
+
